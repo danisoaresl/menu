@@ -1,0 +1,149 @@
+
+.logo{
+    width: 50%;
+    
+    
+}
+.menu{
+    position: relative;
+    margin-top: 4px;
+    float: none;
+    width: 100%;
+    height: 25px;
+    text-align: center;
+    
+    background-color: palevioletred;
+}
+.menu a {
+    vertical-align:bottom;
+    color:aliceblue;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10px;  
+}
+
+.menu a:focus {
+    padding: 2px;
+    background-color: darkred;
+}
+
+.ifood {
+    float: left;
+    margin:20px; 
+    padding-right: 200px;
+    padding-left: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+.mapa{   
+    float: left;
+    margin: 5px; 
+    
+    
+}
+
+
+.instagram{
+    float: left;
+    margin:20px; 
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.fonteimagens{
+    float: left;
+    margin:20px; 
+    padding-right: 200px;
+    padding-left: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.header{
+    width:100%;
+    height:100px;
+    background-color: pink;
+    padding-top: 5px;
+}
+.conteudo{
+    width: 100%;
+    float: left;
+    background-color: whitesmoke;
+    text-align: center;
+}
+.conteudo div{
+    float:left;
+    background-color: whitesmoke;
+    text-align: center;
+    
+}
+.conteudo img{
+    float:left;
+    width: 190px;
+    height: 190px;
+    margin:10px;
+    padding: 10px;
+    text-align:end;
+    display: flex;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
+            
+   }
+.conteudo p{
+    float:left; 
+   padding: 2px;
+    margin-top:6px
+ 
+}   
+.footer{
+    float: left;
+    width: 100%;
+    height: 135px;
+    background-color: palevioletred;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+.site{
+   display: flex;
+   flex-flow: column;
+   height: 100%;
+   width:100%;
+   height:100%;
+   margin-top:0;
+   margin-right:auto;
+   margin-bottom:0;
+   margin-left:auto;
+   background-color:#666;
+}
+
+div.site-branding { /* Position Logo and Text  */
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+    font-size: medium;
+    float: left;
+    margin:40px;
+  }
+  
+  div.site-logo { /* Position logo within site-branding */
+    display: inline;
+    vertical-align: middle;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 5px;
+    
+  }
+ 
+  .img-container {
+    text-align: center;
+  }
