@@ -74,14 +74,13 @@
 .conteudo{
     width: 100%;
     float: right;
-    background-color: whitesmoke;
+    background-color: yellow;
     text-align: right;
 }
 .conteudo div{
     float:left;
-    background-color: whitesmoke;
-    text-align: right;
-    
+    background-color: yellow;
+    text-align: right
 
 }
 .conteudo img{
@@ -108,6 +107,7 @@
 }
 .conteudo p{
     float:left; 
+    text-align: left;
    padding-top: 60px;
     margin-top:6px
 
@@ -117,13 +117,15 @@
     float: left;
     width: 100%;
     height: 135px;
-    background-color: palevioletred;
+    background-color: pink;
     padding-right: 100px;
     padding-left: 100px;
     margin: 0;
     padding: 0px;
     bottom: 0;
     position: absolute;
+    
+    
     
 }
 .site{
