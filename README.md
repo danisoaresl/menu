@@ -1,3 +1,1 @@
-# projeto2-cardapio
-
-# exercício Elas na Tech
+Elas na Tech
